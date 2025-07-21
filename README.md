@@ -507,9 +507,7 @@ Feature Engineering<br/>
 Data Visualization
 </td>
 <td width="25%" align="center">
-<h4>🤖 Machine Learning</h4>
-Classification Models<br/>
-Clustering Algorithms<br/>
+<h4>🤖 Machine Learning</h4
 Time Series Forecasting<br/>
 Model Optimization
 </td>
@@ -660,9 +658,6 @@ Performance Optimization
 
 ### If this project helped you or inspired your work, please consider:
 
-[![⭐ Star this repo](https://img.shields.io/badge/⭐-Star_this_repo-yellow?style=for-the-badge)](https://github.com/YOUR_USERNAME/ecommerce-analytics-platform/stargazers)
-[![🍴 Fork it](https://img.shields.io/badge/🍴-Fork_it-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/ecommerce-analytics-platform/fork)
-[![📢 Share it](https://img.shields.io/badge/📢-Share_it-green?style=for-the-badge)](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20e-commerce%20analytics%20project!%20https://github.com/YOUR_USERNAME/ecommerce-analytics-platform)
 
 ### 💫 **"Data is the new oil, but analytics is the refinery."**
 
